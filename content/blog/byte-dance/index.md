@@ -1,3 +1,11 @@
+---
+title: Byte-dance interview
+description: "record experience of interview"
+---
+
 # byte dance interview
 
-## record my things
+## Questions
+
+
+### coding quesiton throttleFetch
